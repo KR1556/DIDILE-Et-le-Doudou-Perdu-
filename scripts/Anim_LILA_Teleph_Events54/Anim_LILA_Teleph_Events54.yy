@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_LILA_Teleph_Events54",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_LILA_Teleph_Events54",
+  "parent":{
+    "name":"Teleph_1",
+    "path":"folders/Séquences/Anim_TELEPHERIQUE/LILA_TELEPH/Teleph_1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

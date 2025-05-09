@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Trempoline_Events4",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Trempoline_Events4",
+  "parent":{
+    "name":"Anim_TREMPOLINE",
+    "path":"folders/Séquences/Anim_TREMPOLINE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

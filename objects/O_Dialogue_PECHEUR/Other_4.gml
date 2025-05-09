@@ -1,0 +1,1 @@
+instance_deactivate_object(O_SKIP_Pecheur);

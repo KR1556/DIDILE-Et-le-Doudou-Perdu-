@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Dialogue_1_Events56",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Dialogue_1_Events56",
+  "parent":{
+    "name":"KIOSQUE_1",
+    "path":"folders/Séquences/Anim_DIALOGUES/KIOSQUE_1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Jump_Events12",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Jump_Events12",
+  "parent":{
+    "name":"Anim_JUMP",
+    "path":"folders/Séquences/Anim_JUMP.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

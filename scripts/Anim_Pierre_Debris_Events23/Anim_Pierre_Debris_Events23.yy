@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Pierre_Debris_Events23",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Pierre_Debris_Events23",
+  "parent":{
+    "name":"PIERRE_DEBRIS",
+    "path":"folders/Séquences/Anim_PIERRES/PIERRE_DEBRIS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

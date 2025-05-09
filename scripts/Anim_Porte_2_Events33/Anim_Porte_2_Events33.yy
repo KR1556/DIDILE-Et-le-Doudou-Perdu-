@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_2_Events33",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_2_Events33",
+  "parent":{
+    "name":"Hutte",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Hutte/Hutte.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_NAVETTE_Events39",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_NAVETTE_Events39",
+  "parent":{
+    "name":"Anim_NAVETTE",
+    "path":"folders/Séquences/Anim_NAVETTE/Anim_NAVETTE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

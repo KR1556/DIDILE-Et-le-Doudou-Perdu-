@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_TOBOGGAN_Events28",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_TOBOGGAN_Events28",
+  "parent":{
+    "name":"Anim_TOBOGGAN",
+    "path":"folders/Séquences/Anim_TOBOGGAN.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

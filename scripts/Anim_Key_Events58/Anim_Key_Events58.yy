@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Key_Events58",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Key_Events58",
+  "parent":{
+    "name":"Anim_KEY",
+    "path":"folders/Séquences/Anim_KEY.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

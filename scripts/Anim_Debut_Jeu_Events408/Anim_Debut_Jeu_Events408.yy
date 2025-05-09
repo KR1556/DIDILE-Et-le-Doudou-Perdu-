@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Debut_Jeu_Events408",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Debut_Jeu_Events408",
+  "parent":{
+    "name":"Anim_Debut_Jeu",
+    "path":"folders/Séquences/Anim_Debut_Jeu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

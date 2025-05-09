@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Pierre_2_Events5",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Pierre_2_Events5",
+  "parent":{
+    "name":"PIERRE_2",
+    "path":"folders/Séquences/Anim_PIERRES/PIERRE_2.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

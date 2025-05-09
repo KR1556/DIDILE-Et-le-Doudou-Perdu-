@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Ronfle",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.538479,
+  "name":"Snd_Ronfle",
+  "parent":{
+    "name":"ENVIRONNEMENT",
+    "path":"folders/Sons/BRUITAGES/ENVIRONNEMENT.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Ronfle.wav",
+  "type":0,
+  "volume":1.0,
+}

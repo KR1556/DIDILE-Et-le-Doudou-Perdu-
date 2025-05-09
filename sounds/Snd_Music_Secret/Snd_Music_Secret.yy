@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Music_Secret",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":40.421066,
+  "name":"Snd_Music_Secret",
+  "parent":{
+    "name":"MUSIC",
+    "path":"folders/Sons/MUSIC.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Music_Secret.wav",
+  "type":0,
+  "volume":0.1,
+}

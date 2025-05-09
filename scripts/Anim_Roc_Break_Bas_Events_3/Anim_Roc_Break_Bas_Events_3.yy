@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Roc_Break_Bas_Events_3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Roc_Break_Bas_Events_3",
+  "parent":{
+    "name":"ROC_DECOUPE_3",
+    "path":"folders/Séquences/Anim_ROC/ROC_DECOUPE_3.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

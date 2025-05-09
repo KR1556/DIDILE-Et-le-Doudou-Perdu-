@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Coffre_Sabre_Events1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Coffre_Sabre_Events1",
+  "parent":{
+    "name":"Anim_Coffre_Sabre",
+    "path":"folders/Séquences/Anim_COFFRE/Anim_Coffre_Sabre.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

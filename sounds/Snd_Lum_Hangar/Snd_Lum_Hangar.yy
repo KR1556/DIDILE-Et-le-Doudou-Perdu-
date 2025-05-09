@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Lum_Hangar",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.375,
+  "name":"Snd_Lum_Hangar",
+  "parent":{
+    "name":"ENVIRONNEMENT",
+    "path":"folders/Sons/BRUITAGES/ENVIRONNEMENT.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Lum_Hangar.wav",
+  "type":0,
+  "volume":1.0,
+}

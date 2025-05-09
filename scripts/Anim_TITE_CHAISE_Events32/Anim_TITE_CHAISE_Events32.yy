@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_TITE_CHAISE_Events32",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_TITE_CHAISE_Events32",
+  "parent":{
+    "name":"HUTTE",
+    "path":"folders/Séquences/Anim_TITE_CHAISE/HUTTE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

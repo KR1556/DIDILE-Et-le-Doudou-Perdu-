@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_3_BIS_Events36",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_3_BIS_Events36",
+  "parent":{
+    "name":"Hutte_SABRE_TRANSITION",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Hutte/Hutte_SABRE_TRANSITION.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

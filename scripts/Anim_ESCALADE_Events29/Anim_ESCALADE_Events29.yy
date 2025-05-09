@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_ESCALADE_Events29",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_ESCALADE_Events29",
+  "parent":{
+    "name":"Anim_ESCALADE",
+    "path":"folders/Séquences/Anim_ESCALADE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

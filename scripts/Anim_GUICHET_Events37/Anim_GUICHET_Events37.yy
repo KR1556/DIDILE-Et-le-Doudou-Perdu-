@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_GUICHET_Events37",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_GUICHET_Events37",
+  "parent":{
+    "name":"Anim_GUICHET",
+    "path":"folders/Séquences/Anim_NAVETTE/Anim_GUICHET.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

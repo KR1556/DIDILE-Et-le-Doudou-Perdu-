@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Porte_Metal",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.5,
+  "name":"Snd_Porte_Metal",
+  "parent":{
+    "name":"ENVIRONNEMENT",
+    "path":"folders/Sons/BRUITAGES/ENVIRONNEMENT.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Porte_Metal.wav",
+  "type":0,
+  "volume":0.3,
+}

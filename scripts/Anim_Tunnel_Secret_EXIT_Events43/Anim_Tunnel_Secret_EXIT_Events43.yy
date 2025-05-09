@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Tunnel_Secret_EXIT_Events43",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Tunnel_Secret_EXIT_Events43",
+  "parent":{
+    "name":"EXIT",
+    "path":"folders/Séquences/Anim_SECRET/Anim_TUNNEL_SECRET/EXIT.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

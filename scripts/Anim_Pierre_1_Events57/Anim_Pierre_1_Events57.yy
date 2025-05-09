@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Pierre_1_Events57",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Pierre_1_Events57",
+  "parent":{
+    "name":"PIERRE_TREMPOLINE",
+    "path":"folders/Séquences/Anim_PIERRES/PIERRE_TREMPOLINE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

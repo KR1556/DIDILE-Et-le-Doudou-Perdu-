@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ANIM_TITRE_Events407",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ANIM_TITRE_Events407",
+  "parent":{
+    "name":"ANIM_TITRE",
+    "path":"folders/Séquences/ECRAN_START/ANIM_TITRE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

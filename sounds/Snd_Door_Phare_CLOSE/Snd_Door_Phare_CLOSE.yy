@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Door_Phare_CLOSE",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.75,
+  "name":"Snd_Door_Phare_CLOSE",
+  "parent":{
+    "name":"ENVIRONNEMENT",
+    "path":"folders/Sons/BRUITAGES/ENVIRONNEMENT.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Door_Phare_CLOSE.wav",
+  "type":0,
+  "volume":1.0,
+}

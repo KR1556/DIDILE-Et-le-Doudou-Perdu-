@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_ASCENCEUR_Events30",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_ASCENCEUR_Events30",
+  "parent":{
+    "name":"MONTE",
+    "path":"folders/Séquences/Anim_ASCENCEUR/MONTE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

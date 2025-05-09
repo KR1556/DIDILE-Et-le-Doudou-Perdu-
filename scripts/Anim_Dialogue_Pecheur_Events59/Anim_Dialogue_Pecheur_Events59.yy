@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Dialogue_Pecheur_Events59",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Dialogue_Pecheur_Events59",
+  "parent":{
+    "name":"DIALOGUE_PECHEUR",
+    "path":"folders/Séquences/Anim_DIALOGUES/DIALOGUE_PECHEUR.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Essai_Titre",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":72.0,
+  "name":"Snd_Essai_Titre",
+  "parent":{
+    "name":"MUSIC",
+    "path":"folders/Sons/MUSIC.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Essai_Titre.wav",
+  "type":0,
+  "volume":0.6,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Cascade",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":10.0,
+  "name":"Snd_Cascade",
+  "parent":{
+    "name":"ENVIRONNEMENT",
+    "path":"folders/Sons/BRUITAGES/ENVIRONNEMENT.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Cascade.wav",
+  "type":2,
+  "volume":0.14,
+}

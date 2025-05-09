@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_ECHELLE_PHARE_FINAL_Events50",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_ECHELLE_PHARE_FINAL_Events50",
+  "parent":{
+    "name":"Anim_ECHELLE_PHARE_FINAL",
+    "path":"folders/Séquences/Anim_ECHELLE_PHARE_FINAL.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

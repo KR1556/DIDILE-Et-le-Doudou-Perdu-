@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_Etage_G_Events45",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_Etage_G_Events45",
+  "parent":{
+    "name":"PORTE_GAUCHE",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Phare/DIDILE_SABRE/Porte_EXT/PORTE_GAUCHE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

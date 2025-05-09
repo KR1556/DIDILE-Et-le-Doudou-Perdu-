@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_ECHELLE_TOUR_PHARE_Events49",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_ECHELLE_TOUR_PHARE_Events49",
+  "parent":{
+    "name":"Anim_ECHELLE_TOUR_PHARE",
+    "path":"folders/Séquences/Anim_ECHELLE_TOUR_PHARE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

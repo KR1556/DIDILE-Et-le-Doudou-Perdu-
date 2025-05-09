@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"TileSet_EAU_FINAL_Transparente",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"TileSet_EAU_FINAL_Transparente",
+  "out_columns":1,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile sets",
+    "path":"folders/Tile sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"S_Eau_Final_TRANSPARENTE",
+    "path":"sprites/S_Eau_Final_TRANSPARENTE/S_Eau_Final_TRANSPARENTE.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":48,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":48,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":2,
+}

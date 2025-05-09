@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_POULE_JEUX_Events28",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_POULE_JEUX_Events28",
+  "parent":{
+    "name":"Anim_POULE_JEUX",
+    "path":"folders/Séquences/Anim_POULE_JEUX.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

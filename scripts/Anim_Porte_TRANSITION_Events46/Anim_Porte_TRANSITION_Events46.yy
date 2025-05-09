@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_TRANSITION_Events46",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_TRANSITION_Events46",
+  "parent":{
+    "name":"Porte_DROITE",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Phare/DIDILE_SABRE/Porte_DROITE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

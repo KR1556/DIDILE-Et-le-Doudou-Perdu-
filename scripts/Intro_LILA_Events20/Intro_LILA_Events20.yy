@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Intro_LILA_Events20",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Intro_LILA_Events20",
+  "parent":{
+    "name":"INTRO_ET_FONDU",
+    "path":"folders/Séquences/INTRO_ET_FONDU.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_Phare_EXT_SABRE_Events59",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_Phare_EXT_SABRE_Events59",
+  "parent":{
+    "name":"PORTE_PRINCIPALE",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Phare/DIDILE_SABRE/Porte_EXT/PORTE_PRINCIPALE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

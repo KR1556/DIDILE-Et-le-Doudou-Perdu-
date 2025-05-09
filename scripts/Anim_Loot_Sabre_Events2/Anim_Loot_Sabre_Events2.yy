@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Loot_Sabre_Events2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Loot_Sabre_Events2",
+  "parent":{
+    "name":"Anim_LOOT_SABRE",
+    "path":"folders/Séquences/Anim_COFFRE/Anim_LOOT_SABRE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

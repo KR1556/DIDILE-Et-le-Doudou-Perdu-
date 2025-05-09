@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_ASCENCEUR_DESCEND_Events31",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_ASCENCEUR_DESCEND_Events31",
+  "parent":{
+    "name":"DESCEND",
+    "path":"folders/Séquences/Anim_ASCENCEUR/DESCEND.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

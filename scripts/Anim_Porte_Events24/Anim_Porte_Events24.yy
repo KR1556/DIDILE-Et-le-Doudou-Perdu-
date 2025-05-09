@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_Events24",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_Events24",
+  "parent":{
+    "name":"Outside",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Outside/Outside.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_MOTO_JEUX_Events27",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_MOTO_JEUX_Events27",
+  "parent":{
+    "name":"Anim_MOTO_JEUX",
+    "path":"folders/Séquences/Anim_MOTO_JEUX.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

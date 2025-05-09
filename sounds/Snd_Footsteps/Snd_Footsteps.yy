@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Footsteps",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.458333,
+  "name":"Snd_Footsteps",
+  "parent":{
+    "name":"MOUVEMENTS",
+    "path":"folders/Sons/BRUITAGES/MOUVEMENTS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Footsteps.wav",
+  "type":0,
+  "volume":1.0,
+}

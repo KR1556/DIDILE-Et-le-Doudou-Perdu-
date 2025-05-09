@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_TELEPHERIQUE_Events56",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_TELEPHERIQUE_Events56",
+  "parent":{
+    "name":"TELEPHERIQUE",
+    "path":"folders/Séquences/Anim_TELEPHERIQUE/TELEPHERIQUE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

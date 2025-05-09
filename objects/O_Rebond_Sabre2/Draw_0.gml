@@ -1,0 +1,1 @@
+draw_sprite_ext(S_Rebond_Sabre2, image_index, x, y, image_xscale, image_yscale, image_angle, image_blend, image_alpha);

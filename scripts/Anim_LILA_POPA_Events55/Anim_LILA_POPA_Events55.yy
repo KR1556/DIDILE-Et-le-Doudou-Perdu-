@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_LILA_POPA_Events55",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_LILA_POPA_Events55",
+  "parent":{
+    "name":"LILA_POPA",
+    "path":"folders/Séquences/Anim_TELEPHERIQUE/LILA_POPA.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

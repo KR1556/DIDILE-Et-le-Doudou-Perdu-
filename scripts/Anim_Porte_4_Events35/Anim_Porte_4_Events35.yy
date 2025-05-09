@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_4_Events35",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_4_Events35",
+  "parent":{
+    "name":"Outside_SABRE",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Outside/Outside_SABRE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

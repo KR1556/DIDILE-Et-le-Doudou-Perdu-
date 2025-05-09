@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_Secret_Phare_Events41",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_Secret_Phare_Events41",
+  "parent":{
+    "name":"Anim_PORTE_SECRET",
+    "path":"folders/Séquences/Anim_SECRET/Anim_PORTE_SECRET.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ANIM_ECRAN_START_Events22",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ANIM_ECRAN_START_Events22",
+  "parent":{
+    "name":"ANIM_ECRAN_START",
+    "path":"folders/Séquences/ECRAN_START/ANIM_ECRAN_START.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,18 @@
+# Fichiers de cache et de build GameMaker
+.yyc/
+*.yyz
+*.dll
+*.exe
+
+# Dossiers de config d'IDE
+.idea/
+*.log
+
+# Médias compilés
+*.ogg
+*.wav
+*.mp3
+
+# Fichiers système
+.DS_Store
+Thumbs.db

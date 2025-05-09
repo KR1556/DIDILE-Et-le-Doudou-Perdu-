@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Poissons_Events60",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Poissons_Events60",
+  "parent":{
+    "name":"Anim_POISSONS",
+    "path":"folders/Séquences/Anim_SECRET/Anim_POISSONS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
