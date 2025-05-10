@@ -1,4 +1,66 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
 
+**********  Version 1.0.0  ( du 2025/01/01 au 2025/05/09 )  **********
+CODE :
+	- Intégration de Git au projet Didile
+	- Nettoyage intégral du code du jeu
+	- Nouveau système d'apparition à l'écran des boutons à utiliser
+	suivant la manette branchée et détectée ( Enfin ! )
+	- Suppression des anciens contrôleurs de manette défectueux créant des bugs 	visuels récurent concernant les animations des sprites des boutons
+	- Détection des différentes manettes filaires ou Bluetooth : Ps4, Ps5, Xbox
+	( Ajout de la détection du clavier si besoin )
+	- Refonte totale du code des mouvements de Didile, plus solide et fluide
+	- Suppression de différents objets de collision saturant la mémoire
+	- Amélioration des collisions entre Didile et certains objets déclencheurs
+	- Amélioration des collisions concernant les Murs
+	- Ajout d'un code "un-stuck" évitant les glitchs indésirables
+	- Amélioration des codes d'objets de collision concernant les séquences 	d'animation
+	- Amélioration de fonctions de certaines séquences d'animation
+	- Ajout d'un code pour un mouvement supplémentaire de Didile
+	( sera activé dans les prochains niveaux du jeu. Testé et fonctionnel )
+	- Ajout d'un code pour lire deux différents sons du sabre aléatoirement 	pendant la phase d'attaque
+	- Intégration d'un système d'apparition d'objets suivant la room visitée
+	- Amélioration des différents contrôleurs Musiques et Bruitages
+	- Ajout d'objets mobiles et leur son se déplacant en conséquence
+	- Amélioration des séquences de dialogues avec un système de pause de Didile 	empêchant sa désactivation et re-création en fin d'animation
+	- Amélioration des effets layer et particle systems
+	- Refonte totale de la première partie de l'intro du jeu
 
+VISUELS :
+	- Liste des sprites améliorés :
+		- Titre et Sous-titre
+		- Doudou Didile
+		- Didile Jump ( avec et sans sabre )
+		- Colonnes
+		- Palmiers, Buissons, Barrières et Ponton
+		- Navire Pirate l'AquaDuck ( Voiles baissées )
+
+	- Liste des sprites ajoutés :
+		- Didile Ronfle
+		- Crocox et sa montgolfière
+		- Navire Pirate l'AquaDuck ( Voiles levées )
+		- Les Pirates Duck : Madame Blue, Cap'tain Barbotta, Dock et Dack, 		Clarence et Howard ( 3 autres à venir )
+		- Le Pêcheur
+		- Dauphin et Poisson Clown
+		- Livre, Doudou Lila
+		- Table de bois Intro
+		- Bougie Intro
+		- Tempête de Sable
+		- Clé
+		- Mouettes
+
+SEQUENCES :
+	- Première partie d'intro du jeu
+	- Début du jeu
+
+MUSIQUES ET BRUITAGES :
+	- Musiques :
+		- Start
+		- Secret
+		- Pirates
+		- Kiosque Jeux
+		( Nouvelle D.A : les musiques Maison de Didile et Les Crocodiles ne 		seront plus en version "8-bit". La guitare est rebranchée ! )
+	- Bruitages :
+		- Amélioration des sons Jump, Atterrissage, Ladder, Ambiance Secret, 		Goutte d'eau, Longview, Coffre et Trempoline/Lits
+		- Ajout des sons Porte Métallique et Dauphin
