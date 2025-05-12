@@ -1,5 +1,9 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.1  ( du 2025/05/10 )  **********
+- Création de plusieurs sprites : Chat, Chat oreille et Tapis
+- Création des sprites animés du chat pour la séquence d'intro Livre
+- Modification de la séquence d'intro
 
 **********  Version 1.0.0  ( du 2025/01/01 au 2025/05/09 )  **********
 CODE :
