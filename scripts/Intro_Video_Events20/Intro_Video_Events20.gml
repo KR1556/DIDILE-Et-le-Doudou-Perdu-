@@ -14,6 +14,7 @@ function Son_TontonCorp()
 function Son_Narrateur()
 {
 	audio_play_sound(Snd_Intro_Narrateur, 100, false);
+	audio_play_sound(Snd_Chat_Ronronne, 100, false);
 }
 
 

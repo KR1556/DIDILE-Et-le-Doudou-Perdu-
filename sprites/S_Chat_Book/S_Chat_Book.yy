@@ -60,7 +60,7 @@
     },
     "name":"S_Chat_Book",
     "playback":1,
-    "playbackSpeed":1.0,
+    "playbackSpeed":0.75,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
