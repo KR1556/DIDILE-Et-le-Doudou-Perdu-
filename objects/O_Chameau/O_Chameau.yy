@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_Cham_ESSAI",
-    "path":"sprites/S_Cham_ESSAI/S_Cham_ESSAI.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

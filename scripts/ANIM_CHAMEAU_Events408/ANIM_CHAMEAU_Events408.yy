@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ANIM_CHAMEAU_Events408",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ANIM_CHAMEAU_Events408",
+  "parent":{
+    "name":"ANIM_CHAMEAU",
+    "path":"folders/Séquences/ECRAN_START/ANIM_CHAMEAU.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
