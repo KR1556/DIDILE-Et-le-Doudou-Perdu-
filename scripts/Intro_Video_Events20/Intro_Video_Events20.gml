@@ -25,8 +25,8 @@ function activation_Skip_1()
 	with (O_SKIP)
 	{
 		draw_me = true;
-		draw_x = 575;
-		draw_y = 430;
+		draw_x = 580;
+		draw_y = 335;
 
 		if (gamepad_is_connected(0))
 		{
@@ -50,11 +50,16 @@ function Son_Page()
 	audio_play_sound(Snd_Page, 100, false);
 }
 
+function Detruit_DrawMe()
+{
+	with (O_SKIP)
+	{
+		draw_me = false;
+	}
+}
+
 function ROOM()
 {
 	instance_deactivate_object(O_SKIP);
 	room_goto(INTRO);
 }
-
-
-

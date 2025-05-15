@@ -1,5 +1,18 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.5  ( du 2025/05/15 )  **********
+- Amélioration du sprite de marche du Chameau
+- Création du sprite Chameau Mange
+- Intégration de l'animation Chameau Mange dans sa séquence dédiée
+- Différents réglages de synchronisation de séquence
+- Modification d'une partie du texte de Lila Téléphérique et réglages des bulles de dialogue
+- Finalisation du thème musical de Didile. Mixage final en cours
+
+**********  Version 1.0.4  ( du 2025/05/14 )  **********
+- Amélioration de la résolution de la séquence Titre
+- Différents réglages de synchronisation de séquence
+- Enregistrement des parties guitares pour le thème de Didile
+
 **********  Version 1.0.3  ( du 2025/05/13 )  **********
 - Création des sprites correspondants au Chameau ( idle, walk et face )
 - Création de la séquence Chameau et intégration à la séquence Titre
