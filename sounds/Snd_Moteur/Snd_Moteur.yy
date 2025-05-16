@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.375,
+  "duration":1.3750113,
   "name":"Snd_Moteur",
   "parent":{
     "name":"ENVIRONNEMENT",

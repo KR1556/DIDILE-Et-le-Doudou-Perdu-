@@ -30,8 +30,8 @@ function Passer_Lila_Teleph()
 	with (O_SKIP_Lila_Teleph)
 	{
 		draw_me = true;
-		draw_x = 2900;
-		draw_y = 300;
+		draw_x = 2950;
+		draw_y = 330;
 
 		if (gamepad_is_connected(0))
 		{

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.375,
+  "duration":0.37501132,
   "name":"Snd_Lum_Hangar",
   "parent":{
     "name":"ENVIRONNEMENT",

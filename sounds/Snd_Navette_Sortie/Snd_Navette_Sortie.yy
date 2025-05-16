@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":2.166667,
+  "duration":2.1666667,
   "name":"Snd_Navette_Sortie",
   "parent":{
     "name":"ENVIRONNEMENT",

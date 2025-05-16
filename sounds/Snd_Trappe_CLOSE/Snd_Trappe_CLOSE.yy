@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":2.625,
+  "duration":2.6250114,
   "name":"Snd_Trappe_CLOSE",
   "parent":{
     "name":"ENVIRONNEMENT",

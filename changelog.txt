@@ -1,5 +1,15 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.6  ( du 2025/05/16 )  **********
+- Amélioration visuelle du sprite Chameau Walk
+- Création de l'objet Chameau Walk
+- Création de sa routine de déplacement
+- Amélioration visuelle du background Cadre Secret
+- Création des sprites Tuyaux et Sas
+- Amelioration des séquences d'échelle dans Secret
+- Ajout d'une animation de sas d'entrée dans Secret
+- Modifications diverses dans plusieurs rooms
+
 **********  Version 1.0.5  ( du 2025/05/15 )  **********
 - Amélioration du sprite de marche du Chameau
 - Création du sprite Chameau Mange
