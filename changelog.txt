@@ -1,5 +1,8 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.7  ( du 2025/05/17 )  **********
+- Amélioration du système d'échelle du Phare
+
 **********  Version 1.0.6  ( du 2025/05/16 )  **********
 - Amélioration visuelle du sprite Chameau Walk
 - Création de l'objet Chameau Walk

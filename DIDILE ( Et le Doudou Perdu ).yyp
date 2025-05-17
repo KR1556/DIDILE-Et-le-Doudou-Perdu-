@@ -1380,6 +1380,7 @@
     {"id":{"name":"S_Ascenceur_HAUT","path":"sprites/S_Ascenceur_HAUT/S_Ascenceur_HAUT.yy",},},
     {"id":{"name":"S_Ascenceur_OPEN","path":"sprites/S_Ascenceur_OPEN/S_Ascenceur_OPEN.yy",},},
     {"id":{"name":"S_Audio_Emetteur","path":"sprites/S_Audio_Emetteur/S_Audio_Emetteur.yy",},},
+    {"id":{"name":"S_Background_Echelle_Phare","path":"sprites/S_Background_Echelle_Phare/S_Background_Echelle_Phare.yy",},},
     {"id":{"name":"S_Background_Hutte","path":"sprites/S_Background_Hutte/S_Background_Hutte.yy",},},
     {"id":{"name":"S_Background_Iles_LongView","path":"sprites/S_Background_Iles_LongView/S_Background_Iles_LongView.yy",},},
     {"id":{"name":"S_Background_Phare_EXT","path":"sprites/S_Background_Phare_EXT/S_Background_Phare_EXT.yy",},},
