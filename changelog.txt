@@ -1,5 +1,10 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.8  ( du 2025/05/18 )  **********
+- Changement du pont en direction du Phare
+- Création des sprites Pont Pierre et Pillier Pont Pierre ( Améliorations visuelles en cours )
+- Modifications des sprites, animations, séquences du Chameau
+
 **********  Version 1.0.7  ( du 2025/05/17 )  **********
 - Amélioration du système d'échelle du Phare
 
