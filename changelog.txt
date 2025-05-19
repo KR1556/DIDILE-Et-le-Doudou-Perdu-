@@ -1,5 +1,11 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.9  ( du 2025/05/19 )  **********
+- Remplacement d'une échelle active contre une passive dans la room Start_Sabre
+- Ajout d'une arche fleuries pour le pont du Phare
+- Création des sprites et objets en conséquence
+- Modifications du sprite Pont Pierre
+
 **********  Version 1.0.8  ( du 2025/05/18 )  **********
 - Changement du pont en direction du Phare
 - Création des sprites Pont Pierre et Pillier Pont Pierre ( Améliorations visuelles en cours )

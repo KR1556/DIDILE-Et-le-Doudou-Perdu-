@@ -425,6 +425,7 @@
     {"name":"O_Eau_Pomme","order":3,"path":"objects/O_Eau_Pomme/O_Eau_Pomme.yy",},
     {"name":"O_Echelle_Fin_Trappe","order":13,"path":"objects/O_Echelle_Fin_Trappe/O_Echelle_Fin_Trappe.yy",},
     {"name":"O_Echelle_Phare_Final","order":14,"path":"objects/O_Echelle_Phare_Final/O_Echelle_Phare_Final.yy",},
+    {"name":"O_Echelle_Start_Sabre","order":17,"path":"objects/O_Echelle_Start_Sabre/O_Echelle_Start_Sabre.yy",},
     {"name":"O_Echelle","order":4,"path":"objects/O_Echelle/O_Echelle.yy",},
     {"name":"O_Ecran","order":4,"path":"objects/O_Ecran/O_Ecran.yy",},
     {"name":"O_Elephants","order":4,"path":"objects/O_Elephants/O_Elephants.yy",},

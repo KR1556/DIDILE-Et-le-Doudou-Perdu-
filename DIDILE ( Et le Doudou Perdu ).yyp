@@ -492,6 +492,7 @@
     {"id":{"name":"O_Eau_Pomme","path":"objects/O_Eau_Pomme/O_Eau_Pomme.yy",},},
     {"id":{"name":"O_Echelle_Fin_Trappe","path":"objects/O_Echelle_Fin_Trappe/O_Echelle_Fin_Trappe.yy",},},
     {"id":{"name":"O_Echelle_Phare_Final","path":"objects/O_Echelle_Phare_Final/O_Echelle_Phare_Final.yy",},},
+    {"id":{"name":"O_Echelle_Start_Sabre","path":"objects/O_Echelle_Start_Sabre/O_Echelle_Start_Sabre.yy",},},
     {"id":{"name":"O_Echelle","path":"objects/O_Echelle/O_Echelle.yy",},},
     {"id":{"name":"O_Ecran","path":"objects/O_Ecran/O_Ecran.yy",},},
     {"id":{"name":"O_Elephants","path":"objects/O_Elephants/O_Elephants.yy",},},
