@@ -3,23 +3,23 @@
   "%Name":"S_Pont_Pierre",
   "bboxMode":0,
   "bbox_bottom":299,
-  "bbox_left":6,
+  "bbox_left":2,
   "bbox_right":515,
-  "bbox_top":4,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":true,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"cbcf3293-2a3f-41da-9355-46c8383ae4f6","name":"cbcf3293-2a3f-41da-9355-46c8383ae4f6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"2c451ca6-b78f-4d9f-bf83-040ff4eef0aa","name":"2c451ca6-b78f-4d9f-bf83-040ff4eef0aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":300,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"acf5800f-9522-4ed8-b4c1-7decde53f0d9","blendMode":0,"displayName":"default","isLocked":false,"name":"acf5800f-9522-4ed8-b4c1-7decde53f0d9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"524a4725-4f6d-4148-93bf-5e89aa489fc1","blendMode":0,"displayName":"default","isLocked":false,"name":"524a4725-4f6d-4148-93bf-5e89aa489fc1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Pont_Pierre",
   "nineSlice":null,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cbcf3293-2a3f-41da-9355-46c8383ae4f6","path":"sprites/S_Pont_Pierre/S_Pont_Pierre.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1c790eb2-1f83-4bfe-99e4-835053bca4c3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2c451ca6-b78f-4d9f-bf83-040ff4eef0aa","path":"sprites/S_Pont_Pierre/S_Pont_Pierre.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ff16c55a-3827-4bdc-a7df-6bb21a73060e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

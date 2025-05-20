@@ -1,5 +1,16 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.10  ( du 2025/05/20 )  **********
+- Suppressions de plusieurs sprites devenus inutiles
+- Modifications de la caméra liée à Longview
+- Ajout du sprite animé Bouton B ou Rond dans l'objet Longview
+- Modifications des coordonnées et de la vitesse d'animation du bouton
+- Dernière modification du sprite Pont Pierre
+- Ajouts des Rooms Panneau et Panneau Sabre
+- Création du sprite Panneau
+- Créations d'objets "Skip" pour retour aux rooms précédentes
+- Dernières retouches sur les dialogues de l'intro Lila
+
 **********  Version 1.0.9  ( du 2025/05/19 )  **********
 - Remplacement d'une échelle active contre une passive dans la room Start_Sabre
 - Ajout d'une arche fleuries pour le pont du Phare

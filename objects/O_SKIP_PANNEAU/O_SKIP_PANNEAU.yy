@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"O_LongView_Reticule",
+  "%Name":"O_SKIP_PANNEAU",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Coll_Paysage_Phare","path":"objects/O_Coll_Paysage_Phare/O_Coll_Paysage_Phare.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_LongView_Reticule",
+  "name":"O_SKIP_PANNEAU",
   "overriddenProperties":[],
   "parent":{
-    "name":"LONGVIEW",
-    "path":"folders/Objets/PHARE/LONGVIEW.yy",
+    "name":"SKIP",
+    "path":"folders/Objets/ACCESSOIRES/SKIP.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,11 +30,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"S_LongView_Reticule",
-    "path":"sprites/S_LongView_Reticule/S_LongView_Reticule.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

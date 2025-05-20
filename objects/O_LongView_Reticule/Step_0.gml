@@ -37,3 +37,13 @@ if (place_meeting(x, y, O_Coll_Paysage_Phare) && audio_is_playing(Snd_LongView))
 //Son Synchro position perso + émetteur
 
 audio_listener_set_position(0, x, y, 0);
+
+if (afficher_sprite_Rond && sprite_rond_anim != -1)
+{
+    image_index_rond += image_speed_rond;
+    
+    if (image_index_rond >= sprite_get_number(sprite_rond_anim))
+	{
+        image_index_rond = 0;
+    }
+}

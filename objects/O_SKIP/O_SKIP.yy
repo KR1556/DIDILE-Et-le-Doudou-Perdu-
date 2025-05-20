@@ -10,8 +10,8 @@
   "name":"O_SKIP",
   "overriddenProperties":[],
   "parent":{
-    "name":"ACCESSOIRES",
-    "path":"folders/Objets/ACCESSOIRES.yy",
+    "name":"SKIP",
+    "path":"folders/Objets/ACCESSOIRES/SKIP.yy",
   },
   "parentObjectId":null,
   "persistent":false,
