@@ -1,5 +1,10 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.11  ( du 2025/05/21 )  **********
+- Dépôt de Didile sur GitHub
+- Modifications des rooms Panneau
+- Création des sprites Abeille et son animation
+
 **********  Version 1.0.10  ( du 2025/05/20 )  **********
 - Suppressions de plusieurs sprites devenus inutiles
 - Modifications de la caméra liée à Longview
