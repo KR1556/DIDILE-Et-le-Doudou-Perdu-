@@ -81,6 +81,7 @@
     {"name":"inst_7844F0BD","path":"rooms/START_SABRE/START_SABRE.yy",},
     {"name":"inst_6368D86F","path":"rooms/START_SABRE/START_SABRE.yy",},
     {"name":"inst_4CF044C","path":"rooms/START_SABRE/START_SABRE.yy",},
+    {"name":"inst_1AC59127","path":"rooms/START_SABRE/START_SABRE.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -217,6 +218,7 @@
         {"$GMRInstance":"v2","%Name":"inst_A064310","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_A064310","objectId":{"name":"O_Deactive_Boat_ARMATURE","path":"objects/O_Deactive_Boat_ARMATURE/O_Deactive_Boat_ARMATURE.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":18.171875,"scaleY":1.609375,"x":618.5,"y":995.5,},
       ],"layers":[],"name":"WALL_BOAT","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
     {"$GMRInstanceLayer":"","%Name":"BOAT","depth":2400,"effectEnabled":true,"effectType":"_filter_screenshake","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v2","%Name":"inst_1AC59127","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1AC59127","objectId":{"name":"O_Boat_Cabine","path":"objects/O_Boat_Cabine/O_Boat_Cabine.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2,"scaleY":1.2,"x":501.0,"y":730.0,},
         {"$GMRInstance":"v2","%Name":"inst_24586F42","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_24586F42","objectId":{"name":"O_Boat","path":"objects/O_Boat/O_Boat.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2,"scaleY":1.2,"x":501.0,"y":730.0,},
       ],"layers":[],"name":"BOAT","properties":[
         {"name":"g_Magnitude","type":0,"value":"0.8",},

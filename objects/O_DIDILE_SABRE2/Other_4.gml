@@ -1,6 +1,6 @@
 
 // Apparition de O_Boat
-//show_debug_message("Boat active: " + string(global.boat_active));
+show_debug_message("Boat active: " + string(global.boat_active));
 
 if (room == START_SABRE)
 {
@@ -11,6 +11,13 @@ if (room == START_SABRE)
             visible = true;
         }
     }
+	with (O_Boat_Cabine)
+	{
+		if (global.boat_active)
+		{
+			visible = true;
+		}
+	}
 	with (O_Coll_Echelle_BOAT)
 	{
 		if (global.boat_active)
@@ -49,6 +56,20 @@ if (room == START_SABRE)
 	with (O_Deactive_Boat_ARMATURE)
 	{
 		if (global.boat_active)
+		{
+			visible = true;
+		}
+	}
+}
+
+// Apparition PIRATES
+show_debug_message("PIRATES active: " + string(global.pirates_active));
+
+if (room == PHARE_TRANSITION)
+{
+	with (O_Barbotta)
+	{
+		if (global.pirates_active)
 		{
 			visible = true;
 		}

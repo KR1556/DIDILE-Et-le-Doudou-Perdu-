@@ -8,8 +8,8 @@
   "name":"O_Boat",
   "overriddenProperties":[],
   "parent":{
-    "name":"ACCESSOIRES",
-    "path":"folders/Objets/ACCESSOIRES.yy",
+    "name":"BOAT",
+    "path":"folders/Objets/ACCESSOIRES/BOAT.yy",
   },
   "parentObjectId":null,
   "persistent":false,

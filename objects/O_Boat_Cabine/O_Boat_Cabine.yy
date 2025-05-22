@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_Boat_Armature",
+  "%Name":"O_Boat_Cabine",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Boat_Armature",
+  "name":"O_Boat_Cabine",
   "overriddenProperties":[],
   "parent":{
     "name":"BOAT",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Boat_Armature",
-    "path":"sprites/S_Boat_Armature/S_Boat_Armature.yy",
+    "name":"S_Boat_Cabine",
+    "path":"sprites/S_Boat_Cabine/S_Boat_Cabine.yy",
   },
   "spriteMaskId":null,
   "visible":true,

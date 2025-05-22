@@ -10,6 +10,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Sortie_Secret_BIS","path":"objects/O_Sortie_Secret_BIS/O_Sortie_Secret_BIS.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Collision_Echelle_SECRET_BIS","path":"objects/O_Collision_Echelle_SECRET_BIS/O_Collision_Echelle_SECRET_BIS.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Goto_Phare_TRANSI","path":"objects/O_Goto_Phare_TRANSI/O_Goto_Phare_TRANSI.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_DIDILE_SABRE2",

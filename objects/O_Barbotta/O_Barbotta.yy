@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_Boat_Armature",
+  "%Name":"O_Barbotta",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Boat_Armature",
+  "name":"O_Barbotta",
   "overriddenProperties":[],
   "parent":{
-    "name":"BOAT",
-    "path":"folders/Objets/ACCESSOIRES/BOAT.yy",
+    "name":"PIRATES",
+    "path":"folders/Objets/PERSONNAGES/PNJ/PIRATES.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Boat_Armature",
-    "path":"sprites/S_Boat_Armature/S_Boat_Armature.yy",
+    "name":"S_Duck_Barbotta",
+    "path":"sprites/S_Duck_Barbotta/S_Duck_Barbotta.yy",
   },
   "spriteMaskId":null,
   "visible":true,

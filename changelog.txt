@@ -1,5 +1,10 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.12  ( du 2025/05/22 )  **********
+- Modifications des sprites du Bateau Pirate
+- Code : Système d'apparition des Pirates ( en cours )
+- Création de la Cabine de Barbotta ( en cours )
+
 **********  Version 1.0.11  ( du 2025/05/21 )  **********
 - Dépôt de Didile sur GitHub
 - Modifications des rooms Panneau

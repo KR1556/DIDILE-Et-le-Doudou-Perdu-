@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"O_Boat_Armature",
+  "%Name":"O_Desactive_PIRATES",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_DIDILE_SABRE2","path":"objects/O_DIDILE_SABRE2/O_DIDILE_SABRE2.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Boat_Armature",
+  "name":"O_Desactive_PIRATES",
   "overriddenProperties":[],
   "parent":{
     "name":"BOAT",
-    "path":"folders/Objets/ACCESSOIRES/BOAT.yy",
+    "path":"folders/Objets/COLLISIONS/BOAT.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Boat_Armature",
-    "path":"sprites/S_Boat_Armature/S_Boat_Armature.yy",
+    "name":"S_Desactive_BOAT",
+    "path":"sprites/S_Desactive_BOAT/S_Desactive_BOAT.yy",
   },
   "spriteMaskId":null,
   "visible":true,
