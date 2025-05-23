@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"O_Active_PIRATES",
+  "%Name":"O_Porte_Phare_SABRE_BIS",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_DIDILE_SABRE2","path":"objects/O_DIDILE_SABRE2/O_DIDILE_SABRE2.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Active_PIRATES",
+  "name":"O_Porte_Phare_SABRE_BIS",
   "overriddenProperties":[],
   "parent":{
-    "name":"BOAT",
-    "path":"folders/Objets/COLLISIONS/BOAT.yy",
+    "name":"PORTE_PRINCIPALE",
+    "path":"folders/Objets/PHARE/PORTES/DIDILE_SABRE/PORTE_PRINCIPALE.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Desactive_BOAT",
-    "path":"sprites/S_Desactive_BOAT/S_Desactive_BOAT.yy",
+    "name":"S_Porte_Start",
+    "path":"sprites/S_Porte_Start/S_Porte_Start.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

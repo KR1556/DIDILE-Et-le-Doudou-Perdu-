@@ -82,6 +82,7 @@
     {"name":"inst_6368D86F","path":"rooms/START_SABRE/START_SABRE.yy",},
     {"name":"inst_4CF044C","path":"rooms/START_SABRE/START_SABRE.yy",},
     {"name":"inst_1AC59127","path":"rooms/START_SABRE/START_SABRE.yy",},
+    {"name":"inst_6FA72929","path":"rooms/START_SABRE/START_SABRE.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -162,6 +163,7 @@
     {"$GMRInstanceLayer":"","%Name":"PHARE","depth":1400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_352D01C2_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_352D01C2_2","objectId":{"name":"O_Porte_Phare_EXT_Closed","path":"objects/O_Porte_Phare_EXT_Closed/O_Porte_Phare_EXT_Closed.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1346.0,"y":997.0,},
         {"$GMRInstance":"v2","%Name":"inst_34177834","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_34177834","objectId":{"name":"O_Porte_Phare_SABRE","path":"objects/O_Porte_Phare_SABRE/O_Porte_Phare_SABRE.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.53125,"scaleY":1.0,"x":1348.0,"y":1004.0,},
+        {"$GMRInstance":"v2","%Name":"inst_6FA72929","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6FA72929","objectId":{"name":"O_Porte_Phare_SABRE_BIS","path":"objects/O_Porte_Phare_SABRE_BIS/O_Porte_Phare_SABRE_BIS.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.53125,"scaleY":0.99999994,"x":1348.0,"y":1004.0,},
       ],"layers":[],"name":"PHARE","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"HAMAC","depth":1500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_317335AA_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_317335AA_1","objectId":{"name":"O_Hamac_Fin","path":"objects/O_Hamac_Fin/O_Hamac_Fin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2639.0,"y":931.0,},

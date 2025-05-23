@@ -296,5 +296,3 @@ camera_set_view_target(view_camera[1], O_DIDILE_SABRE2);
 audio_listener_set_position(0, x, y, 0);
 
 }
-
-

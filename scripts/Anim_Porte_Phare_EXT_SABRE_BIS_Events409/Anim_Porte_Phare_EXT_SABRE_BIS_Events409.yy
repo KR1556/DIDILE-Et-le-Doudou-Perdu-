@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_Phare_EXT_SABRE_BIS_Events409",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_Phare_EXT_SABRE_BIS_Events409",
+  "parent":{
+    "name":"EXT_SABRE_BIS",
+    "path":"folders/Séquences/Anim_PORTE/Porte_Phare/DIDILE_SABRE/Porte_EXT/PORTE_PRINCIPALE/EXT_SABRE_BIS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

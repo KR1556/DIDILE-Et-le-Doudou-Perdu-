@@ -61,6 +61,7 @@ audio_bus_main.bypass = true;
 // Apparition de O_Boat
 global.boat_active = false;
 
-// Apparition PIRATES
-global.pirates_active = false;
+
+
+
 

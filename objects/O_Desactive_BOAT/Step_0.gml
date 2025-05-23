@@ -2,6 +2,8 @@ if (global.boat_active)
 {
     instance_destroy();
 	instance_destroy(O_WALL_BOAT_BIS);
+	instance_destroy(O_Porte_Phare_SABRE);
+	instance_activate_object(O_Porte_Phare_SABRE_BIS);
 	instance_activate_object(O_Pente_G_BOAT);
 	instance_activate_object(O_WALL_BOAT);
 	instance_activate_object(O_Coll_Echelle_BOAT);
