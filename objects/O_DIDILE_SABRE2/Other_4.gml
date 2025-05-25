@@ -53,6 +53,13 @@ if (room == START_SABRE)
 			visible = true;
 		}
 	}
+	with (O_New_Bouton_ROND_CABINE)
+	{
+		if (global.boat_active)
+		{
+			visible = true;
+		}
+	}
 	with (O_Deactive_Boat_ARMATURE)
 	{
 		if (global.boat_active)

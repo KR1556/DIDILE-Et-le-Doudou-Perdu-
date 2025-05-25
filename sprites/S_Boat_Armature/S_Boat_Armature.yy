@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"LONGVIEW",
-    "path":"folders/Sprites/ENVIRONNEMENTS/PHARE/LONGVIEW.yy",
+    "name":"BOAT",
+    "path":"folders/Sprites/ENVIRONNEMENTS/PHARE/BOAT.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

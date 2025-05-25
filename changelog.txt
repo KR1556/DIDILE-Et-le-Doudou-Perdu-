@@ -1,5 +1,13 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.14  ( du 2025/05/25 )  **********
+- Apparition des Pirates ( terminée )
+- Création de la Cabine de Barbotta ( terminée )
+- Création des sprites et objets Mobilier pour la Cabine de Barbotta
+- Création d'objets de collision Entrée/Sortie de la Cabine
+- Modifications du sprite Capitaine Barbotta
+- Création d'animations Flambeaux pour Lustre et Bougies pour Piano
+
 **********  Version 1.0.13  ( du 2025/05/23 )  **********
 - Système d'apparition des Pirates ( toujours en cours )
 - Création d'une room "miroir"

@@ -83,6 +83,7 @@
     {"name":"inst_4CF044C","path":"rooms/START_SABRE/START_SABRE.yy",},
     {"name":"inst_1AC59127","path":"rooms/START_SABRE/START_SABRE.yy",},
     {"name":"inst_6FA72929","path":"rooms/START_SABRE/START_SABRE.yy",},
+    {"name":"inst_57576B1E","path":"rooms/START_SABRE/START_SABRE.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -91,6 +92,7 @@
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"FONDU","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"TOUCHES","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_5F8F0537","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F8F0537","objectId":{"name":"O_New_Bouton_ROND","path":"objects/O_New_Bouton_ROND/O_New_Bouton_ROND.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.59375,"scaleY":1.0,"x":1346.0,"y":1006.0,},
+        {"$GMRInstance":"v2","%Name":"inst_57576B1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_57576B1E","objectId":{"name":"O_New_Bouton_ROND_CABINE","path":"objects/O_New_Bouton_ROND_CABINE/O_New_Bouton_ROND_CABINE.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":354.0,"y":903.0,},
       ],"layers":[],"name":"TOUCHES","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"MUSIC","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_58BA92A9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58BA92A9","objectId":{"name":"O_Music_Manager_START_SABRE","path":"objects/O_Music_Manager_START_SABRE/O_Music_Manager_START_SABRE.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":675.0,"y":701.0,},
