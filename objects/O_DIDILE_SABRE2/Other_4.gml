@@ -18,6 +18,13 @@ if (room == START_SABRE)
 			visible = true;
 		}
 	}
+	with (O_Porte__ETAGE_1_G_CLOSE)
+	{
+		if (global.boat_active)
+		{
+			visible = true;
+		}
+	}
 	with (O_Coll_Echelle_BOAT)
 	{
 		if (global.boat_active)

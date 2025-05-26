@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_ENTER_CABINE_Events410",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_ENTER_CABINE_Events410",
+  "parent":{
+    "name":"ENTER_CABINE",
+    "path":"folders/Objets/PHARE/BOAT/PORTES/ENTER_CABINE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

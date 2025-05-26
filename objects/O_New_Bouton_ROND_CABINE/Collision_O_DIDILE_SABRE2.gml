@@ -20,6 +20,6 @@ press_Cabine = input_check_pressed("cancel"); // gp_face2 ( bouton rond )
 
 if (press_Cabine)
 {
-	room_goto(CABINE);
+	layer_sequence_create("Enter_Cabine", 323, 889, Anim_Porte_ENTER_CABINE);
 	audio_stop_sound(Snd_Footsteps);
 }

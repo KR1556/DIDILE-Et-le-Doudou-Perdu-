@@ -1,6 +1,7 @@
 if (place_meeting(x, y, O_DIDILE_SABRE2))
 {
 	instance_deactivate_object(O_New_Bouton_ROND_CABINE);
+	instance_deactivate_object(O_Porte__ETAGE_1_G_CLOSE);
 	instance_deactivate_object(O_Porte_Phare_SABRE_BIS);
 	instance_deactivate_object(O_WALL_BOAT);
 	instance_deactivate_object(O_Coll_Echelle_BOAT);

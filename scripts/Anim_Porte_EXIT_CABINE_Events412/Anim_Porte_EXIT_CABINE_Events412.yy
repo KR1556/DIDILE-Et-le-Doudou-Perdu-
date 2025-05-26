@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_EXIT_CABINE_Events412",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_EXIT_CABINE_Events412",
+  "parent":{
+    "name":"CABINE_EXIT",
+    "path":"folders/Objets/PHARE/BOAT/PORTES/CABINE_EXIT.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

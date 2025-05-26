@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Anim_Porte_Cabine_Close_Events411",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Anim_Porte_Cabine_Close_Events411",
+  "parent":{
+    "name":"CABINE_CLOSE",
+    "path":"folders/Objets/PHARE/BOAT/PORTES/CABINE_CLOSE.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

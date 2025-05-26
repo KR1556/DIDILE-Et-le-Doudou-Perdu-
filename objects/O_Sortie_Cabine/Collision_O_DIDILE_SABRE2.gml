@@ -19,6 +19,6 @@ press_Sortie_Cabine = input_check_pressed("cancel"); // gp_face2 ( bouton rond )
 
 if (press_Sortie_Cabine)
 {
-	room_goto(START_SABRE);
+	layer_sequence_create("Anim_CABINE_EXIT", 562, 200, Anim_Porte_EXIT_CABINE);
 	audio_stop_sound(Snd_Footsteps);
 }
