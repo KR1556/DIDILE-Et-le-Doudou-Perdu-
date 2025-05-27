@@ -10,7 +10,7 @@
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":true,
-  "For3D":false,
+  "For3D":true,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"682d9136-8e74-47df-9516-d448f6c57448","name":"682d9136-8e74-47df-9516-d448f6c57448","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
@@ -23,7 +23,7 @@
   ],
   "name":"S_Transition_Room",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"TRANSITIONS",
     "path":"folders/Sprites/ENVIRONNEMENTS/TRANSITIONS.yy",
@@ -77,8 +77,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":1920,
+    "yorigin":540,
   },
   "swatchColours":null,
   "swfPrecision":2.525,

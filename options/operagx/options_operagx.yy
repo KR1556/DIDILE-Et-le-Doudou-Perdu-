@@ -22,7 +22,7 @@
   "option_operagx_scale":0,
   "option_operagx_team_id":"78c6b329-5aee-4f7e-a753-040a10902be9",
   "option_operagx_team_name":"TontonCorp studio",
-  "option_operagx_texture_page":"8192x8192",
+  "option_operagx_texture_page":"4096x4096",
   "option_operagx_version":"0.0.0.0",
   "resourceType":"GMOperaGXOptions",
   "resourceVersion":"2.0",

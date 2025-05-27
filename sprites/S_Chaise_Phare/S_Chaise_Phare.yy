@@ -9,8 +9,8 @@
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
-  "edgeFiltering":false,
-  "For3D":false,
+  "edgeFiltering":true,
+  "For3D":true,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"ca5acacc-afbc-4848-a771-5ad8e90ddbc2","name":"ca5acacc-afbc-4848-a771-5ad8e90ddbc2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
@@ -83,8 +83,8 @@
   "swatchColours":null,
   "swfPrecision":2.525,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"PHARE",
+    "path":"texturegroups/PHARE",
   },
   "type":0,
   "VTile":false,

@@ -9,8 +9,8 @@
   "name":"O_Desactive_BOAT",
   "overriddenProperties":[],
   "parent":{
-    "name":"BOAT",
-    "path":"folders/Objets/COLLISIONS/BOAT.yy",
+    "name":"COLLISIONS",
+    "path":"folders/Objets/PHARE/BOAT/COLLISIONS.yy",
   },
   "parentObjectId":null,
   "persistent":false,

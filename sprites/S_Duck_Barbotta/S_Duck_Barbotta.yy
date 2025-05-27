@@ -9,7 +9,7 @@
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
-  "edgeFiltering":false,
+  "edgeFiltering":true,
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"ab5069ce-a475-4968-b52d-606c872ef035","name":"ab5069ce-a475-4968-b52d-606c872ef035","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -83,8 +83,8 @@
   "swatchColours":null,
   "swfPrecision":0.5,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"PIRATES_DUCK",
+    "path":"texturegroups/PIRATES_DUCK",
   },
   "type":0,
   "VTile":false,

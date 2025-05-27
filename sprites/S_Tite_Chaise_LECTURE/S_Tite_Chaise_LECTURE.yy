@@ -9,7 +9,7 @@
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
-  "edgeFiltering":false,
+  "edgeFiltering":true,
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"74946a2d-7f63-4cb4-9088-ef0872daec09","name":"74946a2d-7f63-4cb4-9088-ef0872daec09","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -65,6 +65,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":60.0,
+    "seqWidth":60.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
@@ -86,8 +88,8 @@
   "swatchColours":null,
   "swfPrecision":2.525,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"HUTTE",
+    "path":"texturegroups/HUTTE",
   },
   "type":0,
   "VTile":false,

@@ -8,7 +8,7 @@ function ANIM_ECRAN()
 
 function Music_Titre()
 {
-	audio_play_sound(Snd_Essai_Titre, 100, true);
+	audio_play_sound(Snd_Didile_Theme, 100, true);
 }
 
 function Stop_Marche()

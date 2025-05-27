@@ -1,5 +1,10 @@
 - DIDILE ( Et le Doudou Perdu ) -
 
+**********  Version 1.0.16  ( du 2025/05/27 )  **********
+- Modifications des "Texture Group" de tous les sprites du jeu pour régler un problème récurrent de disparitions d'objets ( toujours en cours )
+- Modifications des scripts de séquence et de Fade-in / Fade-out
+- Intégration de la musique "Didile - Thème" ( mixage terminé )
+
 **********  Version 1.0.15  ( du 2025/05/26 )  **********
 - Modifications des sprites de la Cabine de Barbotta ( agrandissements et ajouts de flambeaux supplémentaires )
 - Ajout des objets de collision Entrée/Sortie de la Cabine

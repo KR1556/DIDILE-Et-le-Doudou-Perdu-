@@ -10,7 +10,7 @@
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":true,
-  "For3D":false,
+  "For3D":true,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"ced8c584-2659-4580-b1d3-a65a7d740c94","name":"ced8c584-2659-4580-b1d3-a65a7d740c94","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"12669134-acda-4166-9811-6cec0b7de489","name":"12669134-acda-4166-9811-6cec0b7de489","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -64,6 +64,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":64.0,
+    "seqWidth":3840.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,

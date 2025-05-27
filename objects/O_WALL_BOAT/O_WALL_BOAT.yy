@@ -8,8 +8,8 @@
   "name":"O_WALL_BOAT",
   "overriddenProperties":[],
   "parent":{
-    "name":"BOAT",
-    "path":"folders/Objets/COLLISIONS/BOAT.yy",
+    "name":"COLLISIONS",
+    "path":"folders/Objets/PHARE/BOAT/COLLISIONS.yy",
   },
   "parentObjectId":{
     "name":"O_WALL_2",

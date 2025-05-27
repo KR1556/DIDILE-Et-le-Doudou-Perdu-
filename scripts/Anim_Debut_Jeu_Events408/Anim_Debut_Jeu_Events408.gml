@@ -5,7 +5,7 @@ function Desactive_DIDILE()
 	instance_destroy(O_DIDILE);
 	instance_deactivate_object(O_CAMERA);
 	audio_stop_sound(Snd_Footsteps);
-	audio_stop_sound(Snd_Essai_Titre);
+	audio_stop_sound(Snd_Didile_Theme);
 }
 
 function Son_Tornade_Debut()

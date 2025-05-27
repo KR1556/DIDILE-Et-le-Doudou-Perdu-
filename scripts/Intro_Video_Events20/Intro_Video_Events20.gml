@@ -60,6 +60,7 @@ function Detruit_DrawMe()
 
 function ROOM()
 {
-	instance_deactivate_object(O_SKIP);
 	room_goto(INTRO);
+	instance_deactivate_object(O_SKIP);
+	layer_sequence_destroy(self.elementID);
 }

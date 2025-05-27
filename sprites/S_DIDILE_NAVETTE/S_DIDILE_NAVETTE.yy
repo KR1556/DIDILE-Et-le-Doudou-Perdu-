@@ -9,7 +9,7 @@
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
-  "edgeFiltering":false,
+  "edgeFiltering":true,
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"ff6c3598-afea-49f6-a1fd-b89720d384d1","name":"ff6c3598-afea-49f6-a1fd-b89720d384d1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -64,6 +64,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":100.0,
+    "seqWidth":150.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
@@ -85,8 +87,8 @@
   "swatchColours":null,
   "swfPrecision":2.525,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"DIDILE",
+    "path":"texturegroups/DIDILE",
   },
   "type":0,
   "VTile":false,

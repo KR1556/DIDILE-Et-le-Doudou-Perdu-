@@ -95,8 +95,8 @@
   "swatchColours":null,
   "swfPrecision":0.5,
   "textureGroupId":{
-    "name":"ENVIRONNEMENTS",
-    "path":"texturegroups/ENVIRONNEMENTS",
+    "name":"PHARE",
+    "path":"texturegroups/PHARE",
   },
   "type":0,
   "VTile":false,

@@ -9,8 +9,8 @@
   "name":"O_Coll_Echelle_BOAT_BIS",
   "overriddenProperties":[],
   "parent":{
-    "name":"BOAT",
-    "path":"folders/Objets/COLLISIONS/BOAT.yy",
+    "name":"COLLISIONS",
+    "path":"folders/Objets/PHARE/BOAT/COLLISIONS.yy",
   },
   "parentObjectId":{
     "name":"O_Echelle",

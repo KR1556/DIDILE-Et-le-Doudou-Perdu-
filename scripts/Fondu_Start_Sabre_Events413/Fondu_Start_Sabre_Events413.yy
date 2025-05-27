@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fondu_Start_Sabre_Events413",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fondu_Start_Sabre_Events413",
+  "parent":{
+    "name":"FADE_IN_OUT",
+    "path":"folders/Séquences/INTRO_ET_FONDU/FADE_IN_OUT.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

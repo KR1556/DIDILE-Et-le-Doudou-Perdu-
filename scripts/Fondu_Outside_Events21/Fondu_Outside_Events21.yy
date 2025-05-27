@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"Fondu_Outside_Events21",
   "parent":{
-    "name":"INTRO_ET_FONDU",
-    "path":"folders/Séquences/INTRO_ET_FONDU.yy",
+    "name":"FADE_IN_OUT",
+    "path":"folders/Séquences/INTRO_ET_FONDU/FADE_IN_OUT.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
